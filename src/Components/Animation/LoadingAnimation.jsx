@@ -1,6 +1,6 @@
 import React from 'react';
 import Lottie from 'lottie-react';
-import LoadingAnimationFlyNext from './../../assets/animation/Animation-Loading-FlyNext.json';
+import LoadingAnimationFlyNext from '../../assets/animation/Animation-Loading-FlyNext.json';
 
 const LoadingAnimation = () => {
   return (
